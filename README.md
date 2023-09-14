@@ -13,3 +13,4 @@ My LeetCode solutions
 | 183 |[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MSSQL](./SQL/Customers_Who_Never_Order.sql)
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [MSSQL](./SQL/Calculate_Special_Bonus.sql)
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MSSQL](./SQL/Swap_Salary.sql)
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [MSSQL](./SQL/Fix_Names_in_a_Table.sql)
