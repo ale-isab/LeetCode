@@ -15,3 +15,4 @@ My LeetCode solutions
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MSSQL](./SQL/Swap_Salary.sql)
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [MSSQL](./SQL/Fix_Names_in_a_Table.sql)
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [MSSQL](./SQL/Patients_With_a_Condition.sql)
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [MSSQL](./SQL/Group_Sold_Products_By_The_Date.sql)
