@@ -10,3 +10,4 @@ My LeetCode solutions
 | 596 |[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)  | [MSSQL](./SQL/Classes_More_Than_5_Students.sql)
 | 1757 |[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)  | [MSSQL](./SQL/Recyclable_and_Low_Fat_Products.sql)
 | 584 |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)  | [MSSQL](./SQL/Find_Customer_Referee.sql)
+| 183 |[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MSSQL](./SQL/Customers_Who_Never_Order.sql)
