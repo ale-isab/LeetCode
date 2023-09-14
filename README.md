@@ -12,3 +12,4 @@ My LeetCode solutions
 | 584 |[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)  | [MSSQL](./SQL/Find_Customer_Referee.sql)
 | 183 |[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MSSQL](./SQL/Customers_Who_Never_Order.sql)
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [MSSQL](./SQL/Calculate_Special_Bonus.sql)
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [MSSQL](./SQL/Swap_Salary.sql)
