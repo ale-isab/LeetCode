@@ -17,3 +17,4 @@ My LeetCode solutions
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [MSSQL](./SQL/Patients_With_a_Condition.sql)
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [MSSQL](./SQL/Group_Sold_Products_By_The_Date.sql)
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [MSSQL](./SQL/Employees_With_Missing_Information.sql)
+| 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | [MSSQL](./SQL/Tree_Node.sql)
