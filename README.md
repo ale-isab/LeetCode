@@ -19,3 +19,4 @@ My LeetCode solutions
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [MSSQL](./SQL/Employees_With_Missing_Information.sql)
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | [MSSQL](./SQL/Tree_Node.sql)
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MSSQL](./SQL/Combine_Two_Tables.sql)
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [MSSQL](./SQL/Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql.sql)
