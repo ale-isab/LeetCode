@@ -25,3 +25,4 @@ My LeetCode solutions
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MSSQL](./SQL/Duplicate_Emails.sql)
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [MSSQL](./SQL/Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql)
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MSSQL](./SQL/Delete_Duplicate_Emails.sql)
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MSSQL](./SQL/Employees_Earning_More_Than_Their_Managers.sql)
