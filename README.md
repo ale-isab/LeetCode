@@ -24,3 +24,4 @@ My LeetCode solutions
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [MSSQL](./SQL/Sales_Person.sql)
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MSSQL](./SQL/Duplicate_Emails.sql)
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [MSSQL](./SQL/Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql)
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MSSQL](./SQL/Delete_Duplicate_Emails.sql)
