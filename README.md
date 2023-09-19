@@ -21,3 +21,4 @@ My LeetCode solutions
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MSSQL](./SQL/Combine_Two_Tables.sql)
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [MSSQL](./SQL/Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | [MSSQL](./SQL/Article%20Views%20I.sql)
+| 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [MSSQL](./SQL/Sales_Person.sql)
