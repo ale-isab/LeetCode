@@ -31,3 +31,4 @@ My LeetCode solutions
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [MSSQL](./SQL/Sales_Analysis_III.sql)
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MSSQL](./SQL/Second_Highest_Salary.sql)
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [MSSQL](./SQL/Game_Play_Analysis_I.sql)
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [MSSQL](./SQL/User_Activity_for_the_Past_30_Days_I.sql)
