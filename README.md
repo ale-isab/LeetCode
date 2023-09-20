@@ -29,4 +29,5 @@ My LeetCode solutions
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [MSSQL](./SQL/Rearrange_Products_Table.sql)
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MSSQL](./SQL/Not_Boring_Movies.sql)
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [MSSQL](./SQL/Sales_Analysis_III.sql)
-| 76 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MSSQL](./SQL/Second_Highest_Salary.sql)
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MSSQL](./SQL/Second_Highest_Salary.sql)
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [MSSQL](./SQL/Game_Play_Analysis_I.sql)
