@@ -28,3 +28,4 @@ My LeetCode solutions
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MSSQL](./SQL/Employees_Earning_More_Than_Their_Managers.sql)
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [MSSQL](./SQL/Rearrange_Products_Table.sql)
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [MSSQL](./SQL/Not_Boring_Movies.sql)
+| 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [MSSQL](./SQL/Sales_Analysis_III.sql)
