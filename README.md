@@ -33,3 +33,4 @@ My LeetCode solutions
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [MSSQL](./SQL/Game_Play_Analysis_I.sql)
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [MSSQL](./SQL/User_Activity_for_the_Past_30_Days_I.sql)
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [MSSQL](./SQL/Top_Travellers.sql)
+| 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [MSSQL](./SQL/Daily_Leads_and_Partners.sql)
