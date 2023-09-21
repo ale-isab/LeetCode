@@ -35,3 +35,4 @@ My LeetCode solutions
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [MSSQL](./SQL/Top_Travellers.sql)
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [MSSQL](./SQL/Daily_Leads_and_Partners.sql)
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [MSSQL](./SQL/Find_Followers_Count.sql)
+| 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) |[MSSQL](./SQL/Reformat_Department_Table.sql)
