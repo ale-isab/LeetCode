@@ -39,3 +39,4 @@ My LeetCode solutions
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [MSSQL](./SQL/Market_Analysis_I.sql)
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [MSSQL](./SQL/The_Latest_Login_in_2020.sql)
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [MSSQL](./SQL/Find_Total_Time_Spent_by_Each_Employee.sql)
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [MSSQL](./SQL/Employee%20Bonus.sql)
