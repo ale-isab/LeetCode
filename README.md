@@ -34,3 +34,4 @@ My LeetCode solutions
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [MSSQL](./SQL/User_Activity_for_the_Past_30_Days_I.sql)
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [MSSQL](./SQL/Top_Travellers.sql)
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [MSSQL](./SQL/Daily_Leads_and_Partners.sql)
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [MSSQL](./SQL/Find_Followers_Count.sql)
