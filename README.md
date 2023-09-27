@@ -42,3 +42,4 @@ My LeetCode solutions
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [MSSQL](./SQL/Employee%20Bonus.sql)
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [MSSQL](./SQL/Customer_Placing%20_the_Largest_Number_of_Orders.sql)
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [MSSQL](./SQL/Triangle_Judgement.sql)
+| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [MSSQL](./SQL/Biggest_Single_Number.sql)
