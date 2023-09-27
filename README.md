@@ -40,3 +40,4 @@ My LeetCode solutions
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [MSSQL](./SQL/The_Latest_Login_in_2020.sql)
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [MSSQL](./SQL/Find_Total_Time_Spent_by_Each_Employee.sql)
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | [MSSQL](./SQL/Employee%20Bonus.sql)
+| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [MSSQL](./SQL/Customer_Placing%20_the_Largest_Number_of_Orders.sql)
