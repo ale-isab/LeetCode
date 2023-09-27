@@ -1,0 +1,6 @@
+SELECT
+  b.product_name,
+  a.year,
+  a.price
+FROM
+  Sales a JOIN Product b ON a.product_id=b.Product_id
