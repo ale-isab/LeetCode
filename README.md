@@ -44,3 +44,4 @@ My LeetCode solutions
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [MSSQL](./SQL/Triangle_Judgement.sql)
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [MSSQL](./SQL/Biggest_Single_Number.sql)
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) |[MSSQL](./SQL/Product_Sales_Analysis_I.sql)
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [MSSQL](./SQL/Project_Employees_I.sql)
