@@ -45,3 +45,4 @@ My LeetCode solutions
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | [MSSQL](./SQL/Biggest_Single_Number.sql)
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) |[MSSQL](./SQL/Product_Sales_Analysis_I.sql)
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [MSSQL](./SQL/Project_Employees_I.sql)
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) | [MSSQL](./SQL/Students_and_Examinations.sql)
