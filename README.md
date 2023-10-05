@@ -46,3 +46,4 @@ My LeetCode solutions
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) |[MSSQL](./SQL/Product_Sales_Analysis_I.sql)
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [MSSQL](./SQL/Project_Employees_I.sql)
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) | [MSSQL](./SQL/Students_and_Examinations.sql)
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [MSSQL](./SQL/Replace_Employee_ID_With_The_Unique_Identifier.sql)
