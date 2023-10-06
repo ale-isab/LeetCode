@@ -52,3 +52,4 @@ My LeetCode solutions
 | 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | [MSSQL](./SQL/Movie_Rating.sql)
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [MSSQL](./SQL/Customers_Who_Bought_All_Products.sql)
 | 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [MSSQL](./SQL/The_Number_of_Employees_Which_Report_to_Each_Employee.sql)
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [MSSQL](./SQL/Rank_Scores.sql)
