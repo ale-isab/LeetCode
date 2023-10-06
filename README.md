@@ -50,3 +50,4 @@ My LeetCode solutions
 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [MSSQL](./SQL/Find_Users_With_Valid_E-Mails.sql)
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [MSSQL](./SQL/Invalid_Tweets.sql)
 | 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | [MSSQL](./SQL/Movie_Rating.sql)
+| 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [MSSQL](./SQL/Customers_Who_Bought_All_Products.sql)
