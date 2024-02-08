@@ -55,3 +55,4 @@ My LeetCode solutions
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [MSSQL](./SQL/Rank_Scores.sql)
 | 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [MSSQL](./SQL/Employees_Whose_Manager_Left_the_Company.sql)
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/) | [MSSQL](./SQL/Average_Time_of_Process_per_Machine.sql)
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/) | [MSSQL](./SQL/Managers_with_at_Least_5_Direct_Reports.sql)
