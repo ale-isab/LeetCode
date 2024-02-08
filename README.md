@@ -54,3 +54,4 @@ My LeetCode solutions
 | 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [MSSQL](./SQL/The_Number_of_Employees_Which_Report_to_Each_Employee.sql)
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [MSSQL](./SQL/Rank_Scores.sql)
 | 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [MSSQL](./SQL/Employees_Whose_Manager_Left_the_Company.sql)
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/) | [MSSQL](./SQL/Average_Time_of_Process_per_Machine.sql)
